@@ -1,6 +1,6 @@
 // services/chat/AssistantManager.js
 
-const ASSISTANT_ID = "asst_CggkpXPBSFzUM6e2BjZMuOc8";
+const ASSISTANT_ID = "asst_WDSPX49YUUJxDG1677RoRQMo";
 
 class AssistantManager {
   constructor(openai) {
